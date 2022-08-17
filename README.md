@@ -5,4 +5,6 @@
 - 🌱 I’m currently learning <b>React & Flutter</b>
 - 👯 I’m looking to collaborate on <b>a crowd-funded FPS game</b>
 - 💬 Ask me about <b>old Porsche 911s</b>
-- 📫 How to reach me: <b><a href="kiduswb.com">kiduswb.com</a></b>
+- 📫 How to reach me: <b><a href="https://kiduswb.com" target="_blank">kiduswb.com</a></b>
+
+![](https://komarev.com/ghpvc/?username=kiduswb)
