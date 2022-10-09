@@ -10,6 +10,6 @@
 ![](https://komarev.com/ghpvc/?username=kiduswb)
 
 <!-- GitHub stats -->  
-<h3 align="center"><b>⚡ Development Stats ⚡</b></h3>
+<h3><b>⚡ Development Stats ⚡</b></h3>
 
-<div style="text-align:center;">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiduswb)](https://github.com/anuraghazra/github-readme-stats)</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiduswb)](https://github.com/anuraghazra/github-readme-stats)
