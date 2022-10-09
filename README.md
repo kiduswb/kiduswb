@@ -9,7 +9,8 @@
 
 ![](https://komarev.com/ghpvc/?username=kiduswb)
 
-<!-- GitHub stats -->  
+<!-- GitHub stats  
 <h3><b>⚡ Development Stats ⚡</b></h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiduswb)](https://github.com/anuraghazra/github-readme-stats)
+-->
