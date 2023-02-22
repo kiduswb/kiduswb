@@ -1,4 +1,4 @@
-### Welcome! I'm Kidus and I build things for the web and that little computer you carry around in your pocket.
+### Welcome! My name is Kidus and I build software for humans.
 
 
 - 🔭 I’m currently working on <b>a top secret project (shhh)</b>
