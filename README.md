@@ -1,10 +1,10 @@
 ### Welcome! My name is Kidus and I build software for humans.
 
 
-- 🔭 I’m currently working on <b>a top secret project (shhh)</b>
+- 🔭 I’m currently working on <b>a top secret project (shhh).</b>
 - 🌱 I’m currently learning <b>React, Python, Java & UI Design.</b>
-- 👯 I’m looking to collaborate on <b>a small racing game.</b>
-- 💬 Talk to me about the <b>Porsche 911</b>
+- 👯 I’m looking to collaborate on any project.
+- 💬 Talk to me about <b>obscure sports cars.</b>
 - 📫 Want to see my work and more? Head to: <b><a href="https://kidus.ca" target="_blank">kidus.ca</a></b>
 
 ![](https://komarev.com/ghpvc/?username=kiduswb)
