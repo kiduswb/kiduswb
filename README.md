@@ -1,13 +1,12 @@
 ### Welcome! My name's Kidus.
 ![](https://komarev.com/ghpvc/?username=kiduswb)
 
-
 - 🔭 I’m currently working on a <b>site-mapping tool.</b>
 - 🌱 I’m currently learning <b>API Development</b>
 - 👯 Looking for connections with talented engineers who are passionate about open-source software.
 - 🌎 Check out my personal website &mdash; <b><a href="https://kidus.ca" target="_blank">kidus.ca</a></b>
 
-<h3 align="left">Languages and Tools</h3>
+<h3 align="left">Languages and Frameworks</h3>
 <p align="left"> 
   <a href="#"><img src="https://www.php.net/images/logos/new-php-logo.svg" width="40" height="40"/></a>
   <a href="#"><img src="https://cdn.cdnlogo.com/logos/j/44/javascript.svg" width="40" height="40"/></a> 
@@ -21,6 +20,7 @@
   <a href="#"><img src="https://cdn.cdnlogo.com/logos/a/51/angular.svg" width="40" height="40"/></a>
   <a href="#"><img src="https://cdn.cdnlogo.com/logos/s/91/spring.svg" width="40" height="40"/></a>
   <a href="#"><img src="https://cdn.cdnlogo.com/logos/d/6/dot-net-core.svg" width="40" height="40"/></a>
+  <a href="#"><img src="https://cdn.cdnlogo.com/logos/d/3/django.svg" width="40" height="40"/></a>
 </p>
 
 <h3><b>Development Stats</b></h3>
