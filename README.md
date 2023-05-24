@@ -25,4 +25,4 @@
 
 <h3><b>Development Stats</b></h3>
 
-[![Kidus's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiduswb)](https://github.com/kiduswb/kiduswb)
+[![Kidus's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiduswb&theme=dark&show_icons=true)](https://github.com/kiduswb/kiduswb)
