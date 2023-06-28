@@ -19,7 +19,7 @@
   <a href="#"><img src="https://cdn.cdnlogo.com/logos/r/63/react.svg" width="40" height="40"/></a>
   <a href="#"><img src="https://cdn.cdnlogo.com/logos/a/51/angular.svg" width="40" height="40"/></a>
   <a href="#"><img src="https://cdn.cdnlogo.com/logos/d/6/dot-net-core.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://cdn.cdnlogo.com/logos/f/80/flask.svg" width="40" height="40"/></a>
+  <a href="#"><img src="https://cdn.cdnlogo.com/logos/f/50/flask.svg" width="40" height="40"/></a>
 </p>
 
 <h3><b>Development Stats</b></h3>
