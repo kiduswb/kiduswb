@@ -18,9 +18,8 @@
   <a href="#"><img src="https://cdn.cdnlogo.com/logos/n/94/nodejs-icon.svg" width="40" height="40"/></a>
   <a href="#"><img src="https://cdn.cdnlogo.com/logos/r/63/react.svg" width="40" height="40"/></a>
   <a href="#"><img src="https://cdn.cdnlogo.com/logos/a/51/angular.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://cdn.cdnlogo.com/logos/s/91/spring.svg" width="40" height="40"/></a>
   <a href="#"><img src="https://cdn.cdnlogo.com/logos/d/6/dot-net-core.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://cdn.cdnlogo.com/logos/d/3/django.svg" width="40" height="40"/></a>
+  [url=https://cdnlogo.com/logo/flask_36745.html][img]https://cdn.cdnlogo.com/logos/f/80/flask.svg[/img][/url]
 </p>
 
 <h3><b>Development Stats</b></h3>
