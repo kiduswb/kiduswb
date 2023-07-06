@@ -14,11 +14,11 @@
   <a href="#"><img src="https://cdn.cdnlogo.com/logos/c/1/c-plus-plus.svg" width="40" height="40"/></a>
   <a href="#"><img src="https://cdn.cdnlogo.com/logos/c/27/c.svg" width="40" height="40"/></a>
   <a href="#"><img src="https://cdn.cdnlogo.com/logos/j/86/java.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://cdn.cdnlogo.com/logos/l/23/laravel.svg" width="40" height="40"/></a>
   <a href="#"><img src="https://cdn.cdnlogo.com/logos/n/94/nodejs-icon.svg" width="40" height="40"/></a>
   <a href="#"><img src="https://cdn.cdnlogo.com/logos/a/51/angular.svg" width="40" height="40"/></a>
   <a href="#"><img src="https://cdn.cdnlogo.com/logos/r/63/react.svg" width="40" height="40"/></a>
   <a href="#"><img src="https://cdn.cdnlogo.com/logos/r/18/react-native.svg" width="40" height="40"/></a>
+  <a href="#"><img src="https://cdn.cdnlogo.com/logos/l/23/laravel.svg" width="40" height="40"/></a>
   <a href="#"><img src="https://cdn.cdnlogo.com/logos/f/50/flask.svg" width="40" height="40"/></a>
 </p>
 
