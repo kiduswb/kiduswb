@@ -1,4 +1,5 @@
-### Welcome! My name's Kidus.
+**Welcome! My name's Kidus.**
+
 ![](https://komarev.com/ghpvc/?username=kiduswb)
 
 - 🔭 I’m a full-stack developer and open-source enthusiast.
